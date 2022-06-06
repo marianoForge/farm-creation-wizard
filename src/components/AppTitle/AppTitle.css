@@ -1,0 +1,7 @@
+.app-title-container {
+    margin: var(--base-spacer-l) 0;
+}
+
+.MuiTypography-subtitle1 {
+    margin: 0 var(--base-spacer);
+}

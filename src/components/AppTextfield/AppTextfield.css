@@ -1,0 +1,15 @@
+.app-button__container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  margin: 0 0 var(--base-spacer) 0;
+}
+
+.app-button__item {
+  width: 85%;
+  height: var(--base-spacer-xl);
+}
+
+.water-volume__textfield {
+  height: var(--base-spacer)
+}

@@ -1,0 +1,12 @@
+:root {
+  /*SPACERS*/
+  --base-spacer-xs: 0.5rem;
+  --base-spacer-s: 0.75rem;
+  --base-spacer: 1rem;
+  --base-spacer-m: 1.5rem;
+  --base-spacer-l: 2rem;
+  --base-spacer-xl: 3rem;
+  --base-spacer-xxl: 4rem;
+}
+
+
